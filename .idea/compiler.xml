@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud02" />
+        <module name="cloud03-provider-product-8001" />
+        <module name="cloud04consumerproduct80" />
+        <module name="cloud05eureka6001" />
+        <module name="cloud05eureka6002" />
+        <module name="cloud06providerproduct8002" />
+        <module name="cloud07consumerproductfeign" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cloud01" target="1.8" />
+      <module name="cloud02" target="1.8" />
+      <module name="cloud03-provider-product-8001" target="1.8" />
+      <module name="cloud04consumerproduct80" target="1.8" />
+      <module name="cloud05eureka6001" target="1.8" />
+      <module name="cloud05eureka6002" target="1.8" />
+      <module name="cloud06providerproduct8002" target="1.8" />
+      <module name="cloud07consumerproductfeign" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
