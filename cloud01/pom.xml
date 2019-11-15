@@ -15,6 +15,11 @@
         <module>cloud-05-eureka-6002</module>
         <module>cloud-06-provider-product-8002</module>
         <module>cloud-07-consumer-product-feign</module>
+        <module>cloud-08-provider-product-hystrix-8001</module>
+        <module>cloud-09-hystrix-dashboard-9001</module>
+        <module>cloud-10-zuul-gateway-7001</module>
+        <module>cloud-11-config-server-5001</module>
+        <module>cloud-12-config-client-8080</module>
     </modules>
 
     <packaging>pom</packaging>
